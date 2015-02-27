@@ -1,14 +1,9 @@
 # jalgos-basics
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+A Clojure library containing implementation of basic algorithms.
 
 ## License
 
-Copyright © 2015 FIXME
+Copyright © 2015 JALGOS SAS
 
-Distributed under the Eclipse Public License either version 1.0 or (at
-your option) any later version.
+Distributed under the MIT License.
